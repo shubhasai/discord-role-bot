@@ -18,4 +18,4 @@ and even an anonymous complaints system.
 This bot works just like any other one, throw it onto Heroku, AWS, your own personal server, and let it run. Just make sure that the bot is only on one server, since it won't work on multiple in it's current state.
 
 To learn about configuration, check the bundled config.json for help.
-
+wkbduwqbduy
